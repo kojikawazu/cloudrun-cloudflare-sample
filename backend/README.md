@@ -6,8 +6,8 @@
 
 ## Tech Stack
 
-![[Hono](https://hono.dev/img/logo.svg)](https://hono.dev/)
-![[TypeScript](https://www.typescriptlang.org/favicon.ico)](https://www.typescriptlang.org/)
+[![Hono](https://hono.dev/img/logo.svg)](https://hono.dev/)
+[![TypeScript](https://www.typescriptlang.org/favicon.ico)](https://www.typescriptlang.org/)
 
 ## バックエンドAPIのローカル環境の起動方法
 
