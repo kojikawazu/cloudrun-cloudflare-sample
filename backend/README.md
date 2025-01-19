@@ -6,8 +6,8 @@
 
 ## Tech Stack
 
-[![Hono](https://hono.dev/img/logo.svg)](https://hono.dev/)
-[![TypeScript](https://www.typescriptlang.org/favicon.ico)](https://www.typescriptlang.org/)
+[![Hono](https://img.shields.io/badge/-Hono-000000?style=flat-square&logo=data:image/svg+xml;base64,<BASE64_ENCODED_ICON>&logoColor=white)](https://hono.dev/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ## バックエンドAPIのローカル環境の起動方法
 
